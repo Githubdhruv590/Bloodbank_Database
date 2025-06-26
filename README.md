@@ -43,17 +43,13 @@ A **Blood Bank Management System** that enables users to register donors and pat
 #### 🔘 1. Main Dashboard UI
 
 Shows navigation menu.
-![image](https://github.com/user-attachments/assets/cd11aee3-e5f0-41ee-9471-698b8ef36e4b)
-
-
+![image](https://github.com/user-attachments/assets/616fd889-ee05-4272-8390-d35ec4a010cd)
 
 
 #### ➕ 2. Insert Donor
 
 User-friendly form to register new donors with blood group, last donation, and contact info.
 ![image](https://github.com/user-attachments/assets/1b44cb06-75c3-4e04-bbd6-2715032b85af)
-
-
 
 #### 🧾 3. Insert Patient
 ![image](https://github.com/user-attachments/assets/5d240493-9ddb-44c5-ba0d-ec97e9cc8566)
