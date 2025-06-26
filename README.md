@@ -4,7 +4,6 @@ A mini project simulating the core operations of a blood bank, including donor a
 💾 A robust backend built using Oracle SQL and PL/SQL
 
 🌐 A simple HTML/CSS/JavaScript frontend for visualization and interaction
-📂 Project Structure## 🧨 LifelineDB - A Blood Bank Management System
 
 **Oracle SQL + JS + HTML + CSS**
 
@@ -16,14 +15,14 @@ A **Blood Bank Management System** that enables users to register donors and pat
 
 ### ✨ Key Features
 
-Frontend
+### Frontend
 Clean and responsive interface using HTML/CSS
 
 Dropdown menu to select actions (Insert Donor, Request Blood, Show Donors, etc.)
 
 Basic interaction via JavaScript for triggering database procedures (demo-based)
 
-Backend
+### Backend
 ✅ Donor and patient insertion procedures
 
 ✅ Donation and blood request tracking
@@ -32,7 +31,6 @@ Backend
 
 ✅ Inventory summaries
 
-✅ Cursor-based reporting (showing donors, patients, requests, etc.)
 ---
 
 ### 🗂️ Technologies Used
