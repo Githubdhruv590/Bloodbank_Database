@@ -43,27 +43,44 @@ A **Blood Bank Management System** that enables users to register donors and pat
 #### 🔘 1. Main Dashboard UI
 
 Shows navigation menu.
-![image](https://github.com/user-attachments/assets/6d0b299f-d281-4561-8400-168d24ded9e6)
+![image](https://github.com/user-attachments/assets/cd11aee3-e5f0-41ee-9471-698b8ef36e4b)
+
 
 
 
 #### ➕ 2. Insert Donor
 
 User-friendly form to register new donors with blood group, last donation, and contact info.
-![image](https://github.com/user-attachments/assets/66b69808-1126-4902-b533-f9710313253e)
+![image](https://github.com/user-attachments/assets/1b44cb06-75c3-4e04-bbd6-2715032b85af)
+
 
 
 #### 🧾 3. Insert Patient
 ![image](https://github.com/user-attachments/assets/5d240493-9ddb-44c5-ba0d-ec97e9cc8566)
 
-#### 🧾 3. Insert Patient
-#### 🧾 3. Insert Patient
-#### 🧾 3. Insert Patient
-#### 🏱 4. Donor Reward History
+#### 🧾 4. Add Donation
+![image](https://github.com/user-attachments/assets/59d3c2b9-dbff-473d-a487-c3e8ae8e99a9)
 
-Displays donor rewards fetched using procedure `show_rewards`.
-![Rewards](screenshots/donor_rewards.png)
+#### 🧾 5. Request Blood
+![image](https://github.com/user-attachments/assets/8b2fce99-4dbd-46f1-8440-8a35af932d38)
 
+#### 🧾 6. Show Donors
+![image](https://github.com/user-attachments/assets/a29c2b5a-7695-466f-84c2-5c23948a3c29)
+
+#### 🏱 7. Show Patients by Hospital
+![image](https://github.com/user-attachments/assets/23f939b5-6314-41bb-9439-64acd321660b)
+
+#### 🏱 8. Show Inventory Summary
+![image](https://github.com/user-attachments/assets/591e5bae-4873-424d-b22f-469ff610966f)
+
+#### 🏱 9. Show All Requests
+![image](https://github.com/user-attachments/assets/2a2de579-07b4-4713-aad2-952eb60fddcd)
+
+#### 🏱 10. Show Donor Reward History
+![image](https://github.com/user-attachments/assets/259886e0-13b2-4dbf-b286-14bb3f4f4d59)
+
+#### 🏱 11. Find Donor by Blood Request
+![image](https://github.com/user-attachments/assets/1ba16518-15f5-42b8-bc09-10493f738b33)
 
 
 ---
