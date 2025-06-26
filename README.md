@@ -45,9 +45,7 @@ A **Blood Bank Management System** that enables users to register donors and pat
 Shows navigation menu.
 ![image](https://github.com/user-attachments/assets/616fd889-ee05-4272-8390-d35ec4a010cd)
 
-
 #### ➕ 2. Insert Donor
-
 User-friendly form to register new donors with blood group, last donation, and contact info.
 ![image](https://github.com/user-attachments/assets/1b44cb06-75c3-4e04-bbd6-2715032b85af)
 
