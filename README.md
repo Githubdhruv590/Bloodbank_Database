@@ -16,14 +16,23 @@ A **Blood Bank Management System** that enables users to register donors and pat
 
 ### ✨ Key Features
 
-* ✅ Register new **donors** and **patients**
-* 🧪 Record **blood donations** with volume and blood group
-* 🧨 Request **blood units** and auto-update inventory
-* 📄 View **donors**, **requests**, and **inventory summaries**
-* 🏅 Implement **donor rewards system** with points
-* 🔍 **Find donors** by blood group
-* 🧠 PL/SQL-powered logic (procedures, cursors, sequences)
+Frontend
+Clean and responsive interface using HTML/CSS
 
+Dropdown menu to select actions (Insert Donor, Request Blood, Show Donors, etc.)
+
+Basic interaction via JavaScript for triggering database procedures (demo-based)
+
+Backend
+✅ Donor and patient insertion procedures
+
+✅ Donation and blood request tracking
+
+✅ Automatic reward point updates
+
+✅ Inventory summaries
+
+✅ Cursor-based reporting (showing donors, patients, requests, etc.)
 ---
 
 ### 🗂️ Technologies Used
