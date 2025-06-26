@@ -42,8 +42,9 @@ A **Blood Bank Management System** that enables users to register donors and pat
 
 #### 🔘 1. Main Dashboard UI
 
-Shows navigation menu and real-time feedback from user actions.
-![Dashboard](screenshots/dashboard.png)
+Shows navigation menu.
+![image](https://github.com/user-attachments/assets/c68c4b4b-a569-40a2-9bbd-d3c923d1f5de)
+
 
 #### ➕ 2. Donor Registration Form
 
@@ -60,7 +61,7 @@ Dynamically fetches inventory status by blood group using stored procedures.
 Displays donor rewards fetched using procedure `show_rewards`.
 ![Rewards](screenshots/donor_rewards.png)
 
-> 📁 Store screenshots in a folder named `screenshots/` in the project root.
+
 
 ---
 
@@ -89,11 +90,6 @@ Bloodbank_Database/
 ├── script.js
 ├── project file.sql
 ├── ER.drawio.png
-├── screenshots/
-│   ├── dashboard.png
-│   ├── register_donor.png
-│   ├── inventory_summary.png
-│   ├── donor_rewards.png
 └── README.md
 ```
 
@@ -113,61 +109,3 @@ Bloodbank_Database/
 This project is created for **educational use only**.
 Feel free to fork, modify, and use it for your **DBMS lab**, **mini-project**, or as a learning reference.
 
-pgsql
-Copy
-Edit
-blood-bank-dbms/
-│
-├── frontend/
-│   ├── index.html
-│   ├── styles.css
-│   └── script.js
-│
-├── backend/
-│   ├── tables.sql
-│   ├── procedures.sql
-│   ├── sample_data.sql
-│   └── menu_script.sql
-│
-└── README.md
-💻 Features
-Frontend
-Clean and responsive interface using HTML/CSS
-
-Dropdown menu to select actions (Insert Donor, Request Blood, Show Donors, etc.)
-
-Basic interaction via JavaScript for triggering database procedures (demo-based)
-
-Backend
-✅ Donor and patient insertion procedures
-
-✅ Donation and blood request tracking
-
-✅ Automatic reward point updates
-
-✅ Inventory summaries
-
-✅ Cursor-based reporting (showing donors, patients, requests, etc.)
-
-🔧 Technologies Used
-Frontend: HTML, CSS, JavaScript
-
-Backend: Oracle SQL, PL/SQL (Procedures, Sequences, Cursors)
-
-Tools: SQL Developer / Oracle Live SQL
-
-📸 Screenshots
-
-
-📑 Key PL/SQL Procedures
-insert_donor: Adds a new donor to the database
-
-add_donation: Records a donation and updates inventory & rewards
-
-request_blood: Deducts inventory based on patient request
-
-show_donors: Uses cursor to list all donors
-
-find_donors_by_blood_group: Filters donors by blood type
-
-📘 How to Run
