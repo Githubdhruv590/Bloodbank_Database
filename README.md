@@ -53,11 +53,12 @@ User-friendly form to register new donors with blood group, last donation, and c
 ![image](https://github.com/user-attachments/assets/66b69808-1126-4902-b533-f9710313253e)
 
 
-#### 🧾 3. View Inventory Summary
+#### 🧾 3. Insert Patient
+![image](https://github.com/user-attachments/assets/5d240493-9ddb-44c5-ba0d-ec97e9cc8566)
 
-Dynamically fetches inventory status by blood group using stored procedures.
-![Inventory](screenshots/inventory_summary.png)
-
+#### 🧾 3. Insert Patient
+#### 🧾 3. Insert Patient
+#### 🧾 3. Insert Patient
 #### 🏱 4. Donor Reward History
 
 Displays donor rewards fetched using procedure `show_rewards`.
